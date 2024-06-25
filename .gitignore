@@ -5,3 +5,4 @@ target/
 .settings/
 .DS_Store
 HELP.md
+src/main/resources/application.properties
